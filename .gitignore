@@ -1,0 +1,12 @@
+.obsidian/cache/
+.obsidian/workspace.json
+.obsidian/appearance.json
+.trash/
+/Ocean Data Analysis/
+/中国古代海洋史/
+/游戏设计开发/
+*.pptx
+*.docx
+*.doc
+!*.md
+!*.pdf
